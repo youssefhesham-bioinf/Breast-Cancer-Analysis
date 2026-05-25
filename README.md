@@ -28,11 +28,11 @@ The dataset contains diagnostic measurements extracted from breast cancer cell i
 
 ## Excel Dashboard
 
-![Excel Dashboard](Excel_Dashboard.png)
+![Excel Dashboard](Tableau_Dashboard.png)
 
 ## Tableau Dashboard
 
-![Tableau Dashboard](Tableau_Dashboard.png)
+![Tableau Dashboard](Excel_Dashboard.png)
 
 ## Key Findings
 - Benign cases represent the majority of the dataset.
